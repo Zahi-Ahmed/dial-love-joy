@@ -11,7 +11,7 @@ const Header = () => {
             <Car className="w-5 h-5 text-hero-blue" />
           </div>
           <span className="text-xl font-heading font-bold">
-            cars-rentals<span className="text-xs">.com</span>
+            car rental service
           </span>
         </a>
         <a href={PHONE_NUMBER} className="flex items-center gap-2 text-primary-foreground">
