@@ -1,6 +1,6 @@
 import { Search, Calendar, Clock, Check } from "lucide-react";
 
-const PHONE_NUMBER = "tel:+18886334176";
+const PHONE_NUMBER = "tel:+18449673326";
 
 const HeroSection = () => {
   const benefits = [
