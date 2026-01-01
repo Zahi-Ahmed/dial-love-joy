@@ -1,4 +1,4 @@
-const PHONE_NUMBER = "tel:+18886334176";
+const PHONE_NUMBER = "tel:+18449673326";
 
 const CTASection = () => {
   return (

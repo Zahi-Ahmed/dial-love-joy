@@ -1,7 +1,7 @@
 import { X } from "lucide-react";
 import { useState } from "react";
 
-const PHONE_NUMBER = "tel:+18886334176";
+const PHONE_NUMBER = "tel:+18449673326";
 
 const CookieBanner = () => {
   const [isVisible, setIsVisible] = useState(true);

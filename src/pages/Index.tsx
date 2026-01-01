@@ -7,7 +7,7 @@ import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
 import CookieBanner from "@/components/CookieBanner";
 
-const PHONE_NUMBER = "tel:+18886334176";
+const PHONE_NUMBER = "tel:+18449673326";
 
 const Index = () => {
   const handleGlobalClick = (e: React.MouseEvent) => {
